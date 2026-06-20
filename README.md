@@ -1,4 +1,5 @@
 # Student Placement Prediction Model 🎓💼
+##summa
 
 An end-to-end Machine Learning pipeline built to predict student placement eligibility based on academic performance (**CGPA**) and cognitive score (**IQ**). This repository includes the exploratory data analysis, the training pipeline, and the serialized model (`model.pkl`) ready for integration into a viewer or deployment environment.
 
